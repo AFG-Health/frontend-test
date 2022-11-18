@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "_id": "63776acd0ea72bef0d3643cd",
     "createdAt": "2015-07-12T05:19:09 -02:00",
@@ -28,3 +29,4 @@
     "content": "ex ex in duis ad ullamco culpa duis culpa labore incididunt irure magna occaecat occaecat elit minim occaecat commodo officia quis ipsum sint Lorem elit ea nostrud ipsum ad et culpa dolore est ipsum nisi consectetur nisi labore ad sint pariatur adipisicing commodo adipisicing et id magna culpa commodo sint"
   }
 ]
+}
